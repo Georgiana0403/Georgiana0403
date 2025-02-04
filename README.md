@@ -44,6 +44,7 @@ I'm passionate about cloud architecture and DevOps practices, currently building
 - Cloud Security Best Practices
 - Infrastructure Optimization
 - German Language (Currently B1)
+- Kubernetes
 - Artificial Intelligence
 
 ## 🤝 Let's Connect
