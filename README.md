@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Georgeta Daniela Gorgan
 
-## 🚀 Cloud Solutions Architect | AWS Certified | DevOps and AI Enthusiast
+## 🚀 Cloud Solutions Architect | Kubernetes | DevOps and AI Enthusiast
 
 I'm passionate about cloud architecture and DevOps practices, currently building my career in Cloud Engineering. With a unique background in economics and financial planning, I bring a distinctive perspective to cloud cost optimization and infrastructure design.
 
